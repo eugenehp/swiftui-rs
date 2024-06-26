@@ -1,0 +1,13 @@
+[package]
+name = "swiftui"
+version = "0.0.0"
+edition = "2021"
+authors = ["Eugene Hauptmann <eugene@reactivelions.com>"]
+description = "Rust wrapper around Apple SwiftUI"
+license = "MIT"
+keywords = ["swiftui", "swift", "ui"]
+readme = "README.md"
+homepage = "https://github.com/eugenehp/swiftui-rs"
+repository = "https://github.com/eugenehp/swiftui-rs.git"
+
+[dependencies]
